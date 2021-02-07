@@ -12,7 +12,8 @@ BasicInfo:
     - Icon: fas fa-map-marker-alt
       Info: Malaysia
 
-Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Profile: Very passionate about technology. Computers, mobiles, embedded systems, hardwares, softwares, IoT, all of it. Love to work with open-source. <br/>Experience in developing android apps, api server, iot server and websites. Very keen on improving performance even by milliseconds.
+
 
 Experience:
   - Employer:  Jaegar Tech
@@ -24,9 +25,9 @@ Experience:
           - Given responsibility as lead engineer to research, design, develop, integrate SDKs and maintain android apps for customer facing and internal use. 
           - Develop server apps like APIs, Services and Realtime endpoints using SignalR and WebSocket.
           - Responsible for installing, upgrading and managing server hardware and software. Provide an environment for other developers to work locally and remotely.
-          - Research and implement multiple variations of IOT products. Provide documentation and teach co-workers about it.
+          - Research and implement multiple variations of IoT products. Provide documentation and teach co-workers about it.
           - Responsible for handling database related stuff. Provide advice and consultation to other departments for hardware and software related.
-        Badges: ['ASPNETCORE', 'ANDROID', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+        Badges: ['AspNetCore', 'Android', 'OOP', 'Web', 'API', 'C#', 'TCP', 'Postgres', 'MS SQL']
 
   - Employer: Soapp International
     Place: Selangor, MY
@@ -39,7 +40,7 @@ Experience:
           - Experience in backend development using various languages such as Nodejs, Erlang, and Python together with databases like MYSQL, Postgres and Oracle to create REST API, data processing and manipulation, payment gateway and machine learning.
           - Familiar with almost all OS variant such as Unix, Linux, BSD, Windows, MacOS. Implemented a lot of server applications and services whether propriety or open-source. Some of the examples Gitlab, Ejabberd, Openfire, Netdata, stun and turn server. Target of implementation includes local server and cloud services such as AWS, Google Cloud and Azure.
           - Experience in developing contextual chatbot using NLU and machine learning.
-        Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
+        Badges: ['Android', 'NodeJs', 'REST', 'Erlang', 'XMPP', 'GraphQL', 'MySQL']
 
   - Employer: ACT Technology Solutions
     Place: Selangor, MY
@@ -51,7 +52,7 @@ Experience:
           - Revise the disaster recovery system architecture and software implementation of it using Double Take DR software.
           - Provide assistance to seniors by testing of enterprise products and document them for future references.
           - Provide support and consultation to the clients
-        Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
+        Badges: ['Disater Recovery','OracleDb', 'MSSQL', 'Data Processing', 'Db Design']
 
 Education:
   - Course: BSc in Computer Science (Software Engineering)
@@ -75,11 +76,13 @@ Skills:
   - Family: Frameworks
     Items:
       - Android
-      - .net & asp.net
-      - Razor & blazor
+      - .net 
+      - asp.net
+      - Razor 
+      - Blazor
       - Bootstrap
       - Jquery
-      - 
+      - REST
   - Family: Developer Tools
     Items:
       - Git
@@ -94,8 +97,9 @@ Skills:
       - Jetbrains IDE
   - Family: Miscs
     Items:
-      - Adobe Tools
-      - LaTeX
+      - Networking
+      - Unix & Linux & BSD
+      - VM
 
 Languages:
   - Name: English
@@ -107,17 +111,17 @@ Languages:
 
 Awards:
   - Winner of Testing Design Competition 2016 organized by Malaysian Software Testing Board (MSTB)
-  - ISTQB Tester Certification (2019)
-  - English Cambridge CAE (2009)
+  - Runner-up in Mobile Programming Competition organized by university
+  - Runner-up in Hacking Competition by university
+
 
 Interests:
-  - Bouldering
-  - Cooking
-  - Windsurfing
-  - Bossa Nova
-  - Design
-  - Languages
-
+  - Hardware
+  - Games
+  - Software
+  - IoT
+  
+  
 
 Projects:
   - Chat
