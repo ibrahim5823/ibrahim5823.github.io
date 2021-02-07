@@ -4,106 +4,109 @@ BasicInfo:
   Photo: img/profile.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +44 123 456 789
+      Info: <a href='tel:0133184924'>+60 013 318 4924</a>
     - Icon: fas fa-envelope
-      Info: contact@ines-almeida.com
+      Info: <a href="mailto:ibrahim5823@gmail.com">ibrahim5823@gmail.com</a>
     - Icon: fas fa-globe
-      Info: ines-almeida.com
+      Info: <a href="https://ibrahim5823.github.io">ibrahim5823.github.io</a>
     - Icon: fas fa-map-marker-alt
-      Info: Portugal
+      Info: Malaysia
 
 Profile: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 Experience:
-  - Employer: Super Cool Company
-    Place: Oxford, UK
+  - Employer:  Jaegar Tech
+    Place: Selangor, MY
+    Positions:
+      - Title: R&D Software Engineer
+        Date: Sep 2019 - Present
+        Details:
+          - Given responsibility as lead engineer to research, design, develop, integrate SDKs and maintain android apps for customer facing and internal use. 
+          - Develop server apps like APIs, Services and Realtime endpoints using SignalR and WebSocket.
+          - Responsible for installing, upgrading and managing server hardware and software. Provide an environment for other developers to work locally and remotely.
+          - Research and implement multiple variations of IOT products. Provide documentation and teach co-workers about it.
+          - Responsible for handling database related stuff. Provide advice and consultation to other departments for hardware and software related.
+        Badges: ['ASPNETCORE', 'ANDROID', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
+
+  - Employer: Soapp International
+    Place: Selangor, MY
     Positions:
       - Title: Software Engineer
-        Date: Jan 2020 - Present
+        Date: Jan 2018 - Sep 2019
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'Django', 'OOP', 'Javascript', 'HTML', 'CSS', 'Agile']
-      - Title: Software Tester
-        Date: Mar 2019 - Jan 2020
-        Details:
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
-        Badges: ['Python', 'BDD', 'Selenium', 'OOP', 'Agile']
-  - Employer: Another super cool company
-    Place: Lisbon, PT
-    Positions:
-      - Title: Flow Cytometry Resource Specialist
-        Date: Jan 2018 - Mar 2019
-        Details:
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
-          - Sed viverra tellus in hac.
-          - Lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - Involved in designing, developing and maintaining multiple android applications. Typical frameworks used in development includes Room, Live Data, View Model, Work Manager, Retrofit and Material Design. Language used for development were Java, Kotlin and Flutter.
+          - Specialized in real-time chat apps, VoIP implementation using WebRTC, push notifications, job scheduling, and SQLite.
+          - Experience in backend development using various languages such as Nodejs, Erlang, and Python together with databases like MYSQL, Postgres and Oracle to create REST API, data processing and manipulation, payment gateway and machine learning.
+          - Familiar with almost all OS variant such as Unix, Linux, BSD, Windows, MacOS. Implemented a lot of server applications and services whether propriety or open-source. Some of the examples Gitlab, Ejabberd, Openfire, Netdata, stun and turn server. Target of implementation includes local server and cloud services such as AWS, Google Cloud and Azure.
+          - Experience in developing contextual chatbot using NLU and machine learning.
         Badges: ['Python', 'HTML', 'CSS', 'C#/Unity']
-  - Employer: Institute of Neural Engineering
-    Place: Graz, AT
+
+  - Employer: ACT Technology Solutions
+    Place: Selangor, MY
     Positions:
-      - Title: Master's Thesis Research Intern
-        Date: Oct 2016 - Jun 2017
+      - Title: Intern
+        Date: Jul 2017 - Nov 2017
         Details:
-          - Arcu vitae elementum curabitur vitae nunc sed velit
-          - Viverra aliquet eget sit amet tellus cras adipiscing
-          - Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-          - Nisl tincidunt eget nullam non nisi est
+          - Installation, maintenance and testing of Oracle products such as Oracle Database, WebLogic Server, BI Publisher, Forms and Reports.
+          - Revise the disaster recovery system architecture and software implementation of it using Double Take DR software.
+          - Provide assistance to seniors by testing of enterprise products and document them for future references.
+          - Provide support and consultation to the clients
         Badges: ['Python', 'MATLAB', 'Data Processing', 'Paradigm Design']
 
 Education:
-  - Course: BSc & MSc in Biomedical Engineering and Biophysics
-    Place: University of Lisbon
-    Date: Sep 2012 - Nov 2017
-    Details: Specialised in data analysis
+  - Course: BSc in Computer Science (Software Engineering)
+    Place: University Selangor
+    Date: May 2014 - Nov 2017
+    Details: Specialised in software methodology , architecture and development
 
 Skills:
   - Family: Programming
     Items:
-      - Python
-      - HTML (including Jinja)
-      - Javascript
-      - CSS
-      - SASS
-      - SQL
+      - Kotlin
+      - Java
       - C#
+      - HTML & CSS & JS
+      - SQL
       - Bash
-      - MATLAB
+      - Go
+      - Erlang
+      - Python
+      - Dart
   - Family: Frameworks
     Items:
-      - Django
-      - Flask
-      - Hugo
-      - React
+      - Android
+      - .net & asp.net
+      - Razor & blazor
+      - Bootstrap
+      - Jquery
+      - 
   - Family: Developer Tools
     Items:
       - Git
       - Docker
-      - Jenkins
+      - Nginx
       - AWS
-  - Family: Misc
+      - CI/CD
+      - Android Studio
+      - Visual Studio & VS Code
+      - Postman & Insomnia
+      - Terminal
+      - Jetbrains IDE
+  - Family: Miscs
     Items:
       - Adobe Tools
       - LaTeX
 
 Languages:
-  - Name: Portuguese
-    Level: Native
   - Name: English
-    Level: C2
-  - Name: Spanish
-    Level: B1
-  - Name: German
-    Level: B1
+    Level: 5
+  - Name: Malay
+    Level: 5
+  - Name: Japanese
+    Level: 1
 
-Diplomas:
+Awards:
+  - Winner of Testing Design Competition 2016 organized by Malaysian Software Testing Board (MSTB)
   - ISTQB Tester Certification (2019)
   - English Cambridge CAE (2009)
 
@@ -114,3 +117,7 @@ Interests:
   - Bossa Nova
   - Design
   - Languages
+
+
+Projects:
+  - Chat
