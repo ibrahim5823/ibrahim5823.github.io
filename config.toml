@@ -1,7 +1,7 @@
 baseURL = "https://ibrahim5823.github.io/"
 languageCode = "en-us"
 theme = "almeida-cv"
-title = "Example - CV"
+title = "Ibrahim - CV"
 
 [params]
 colorDark = "#666"
