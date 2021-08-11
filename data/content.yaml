@@ -16,11 +16,23 @@ Profile: Very passionate about technology. Computers, mobiles, embedded systems,
 
 
 Experience:
+  - Employer:  SalesCandy
+    Place: Selangor, MY
+    Positions:
+      - Title: Mobile App Developer
+        Date: Apr 2019 - Present
+        Details:
+          - Design, architect, and implement new features in SalesCandy’s mobile app as per technical requirements
+          - Enhance app to achieve stable websocket connection to server
+          - Maintain app to achieve near crash-free rate
+          - Research and implement libraries that help the team and app perform better
+        Badges: ['Android', 'Kotlin', 'Dagger', 'Websocket', 'Appsync']
+
   - Employer:  Jaegar Tech
     Place: Selangor, MY
     Positions:
       - Title: R&D Software Engineer
-        Date: Sep 2019 - Present
+        Date: Sep 2019 - Apr 2021
         Details:
           - Given responsibility as lead engineer to research, design, develop, integrate SDKs and maintain android apps for customer facing and internal use. 
           - Develop server apps like APIs, Services and Realtime endpoints using SignalR and WebSocket.
