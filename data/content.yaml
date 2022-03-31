@@ -19,14 +19,16 @@ Experience:
   - Employer:  SalesCandy
     Place: Selangor, MY
     Positions:
-      - Title: Mobile App Developer
-        Date: Apr 2021 - Present
+      - Title: Developer
+        Date: Apr 2021 - Apr 2022
         Details:
           - Design, architect, and implement new features in SalesCandy’s mobile app as per technical requirements
           - Enhance app to achieve stable websocket connection to server
           - Maintain app to achieve near crash-free rate
           - Research and implement libraries that help the team and app perform better
-        Badges: ['Android', 'Kotlin', 'Dagger', 'Websocket', 'Appsync']
+          - Maintain and design new features in api using Appsync and Lambda
+          - Develop and deploy microservices using serverless framework.
+        Badges: ['Android', 'Kotlin', 'Dagger', 'Websocket', 'Appsync', 'AWS', 'NodeJs', 'MySQL', 'Serverless']
 
   - Employer:  Jaegar Tech
     Place: Selangor, MY
@@ -75,9 +77,10 @@ Education:
 Skills:
   - Family: Programming
     Items:
+      - C#
       - Kotlin
       - Java
-      - C#
+      - NodeJs
       - HTML & CSS & JS
       - SQL
       - Bash
@@ -95,6 +98,8 @@ Skills:
       - Bootstrap
       - Jquery
       - REST
+      - VueJs
+      - Serverless
   - Family: Developer Tools
     Items:
       - Git
