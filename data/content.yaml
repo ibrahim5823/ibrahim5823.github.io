@@ -19,15 +19,16 @@ Experience:
   - Employer:  SalesCandy
     Place: Selangor, MY
     Positions:
-      - Title: Developer
-        Date: Apr 2021 - Apr 2022
+      - Title: Cloud Engineer & Developer
+        Date: Apr 2021 - May 2022
         Details:
           - Design, architect, and implement new features in SalesCandy’s mobile app as per technical requirements
           - Enhance app to achieve stable websocket connection to server
           - Maintain app to achieve near crash-free rate
           - Research and implement libraries that help the team and app perform better
           - Maintain and design new features in api using Appsync and Lambda
-          - Develop and deploy microservices using serverless framework.
+          - Develop and deploy microservices on cloud using serverless framework.
+          - Used Kubernetes cluster for Gitlab devops pipeline agent to build and deploy apps.
         Badges: ['Android', 'Kotlin', 'Dagger', 'Websocket', 'Appsync', 'AWS', 'NodeJs', 'MySQL', 'Serverless']
 
   - Employer:  Jaegar Tech
@@ -41,12 +42,14 @@ Experience:
           - Responsible for installing, upgrading and managing server hardware and software. Provide an environment for other developers to work locally and remotely.
           - Research and implement multiple variations of IoT products. Provide documentation and teach co-workers about it.
           - Responsible for handling database related stuff. Provide advice and consultation to other departments for hardware and software related.
-        Badges: ['AspNetCore', 'Android', 'OOP', 'Web', 'API', 'C#', 'TCP', 'Postgres', 'MS SQL']
+          - Using Azure DevOps and Jenkins for CI/CD and launch prototypes.
+          - Deploys backend on Azure VM, configure VNet/Subnet and NSG for IoT devices to connect backend
+        Badges: ['Azure','AspNetCore', 'Android', 'OOP', 'Web', 'API', 'C#', 'TCP', 'Postgres', 'MS SQL', 'Jenkins']
 
   - Employer: Soapp International
     Place: Selangor, MY
     Positions:
-      - Title: Software Engineer
+      - Title: Solution Architect (Mobile & Backend)
         Date: Jan 2018 - Sep 2019
         Details:
           - Involved in designing, developing and maintaining multiple android applications. Typical frameworks used in development includes Room, Live Data, View Model, Work Manager, Retrofit and Material Design. Language used for development were Java, Kotlin and Flutter.
@@ -104,9 +107,11 @@ Skills:
     Items:
       - Git
       - Docker
+      - Kubernetes
       - Nginx
       - AWS
-      - CI/CD
+      - Azure
+      - CI/CD (Azure DevOps, Jenkins, Gitlab CI)
       - Android Studio
       - Visual Studio & VS Code
       - Postman & Insomnia
